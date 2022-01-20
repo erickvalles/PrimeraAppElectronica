@@ -8,5 +8,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         //que no se me olvide sacar alumnos de la clase.
+        //pero lo volvería a hacer
     }
 }
